@@ -77,49 +77,6 @@ Dr. Ukwajunor leads BioEpiRNet’s scientific direction and research programs. H
 
 ---
 
-## Patrick Osatohanmwen, PhD  
-**Senior Research Scientist – Health Economics & Policy Modeling**
-
-Affiliation:  
-Faculty of Economics and Management  
-Free University of Bolzano, Italy
-
-Dr. Osatohanmwen’s research bridges **statistical modeling, econometrics, and data science**, with work spanning **probability theory, spatial extreme value analysis, and policy modeling**.
-
----
-
-## Ann Nwankwo-Eluwa, PhD  
-**Senior Research Scientist – Infectious Disease Modeling**
-
-Affiliation:  
-Infectious Disease Modelling Group  
-University of Oxford
-
-Dr. Nwankwo-Eluwa develops **mathematical and statistical models** to understand infectious disease dynamics and evaluate control strategies.
-
----
-
-## Amos O. Egonmwan, PhD  
-**Research Fellow & Technical Operations Manager – Mathematical, Statistical & Computational Modeling**
-
-Affiliation:  
-Mathematical, Computational and Statistical Biology Research Group (MCSB)  
-Department of Mathematics, University of Benin, Nigeria
-
-Dr. Egonmwan’s research integrates **mathematical modeling, spatial epidemiology, and predictive analytics** to study disease dynamics and comorbidity patterns.
-
----
-
-## Faith Eshofonie, MSc  
-**Research Fellow – Biostatistics & Data Analytics**
-
-Affiliation:  
-Federal University of Technology Akure, Nigeria
-
-Ms. Eshofonie contributes to **research design, statistical analysis, and biostatistical applications in public health studies**.
-
----
-
 # Research Projects
 
 Repositories under this organization include research projects related to:
