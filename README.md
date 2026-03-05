@@ -46,7 +46,7 @@ BioEpiRNet aims to:
 - Train and mentor **early-career researchers**
 - Strengthen **data infrastructure and analytical capacity for health research**
 - Translate research findings into **actionable insights for policymakers and health agencies**
-
+ 
 ---
 
 ## Core Areas of Focus
