@@ -51,19 +51,19 @@ BioEpiRNet aims to:
 
 ## Core Areas of Focus
 
-#### Statistical Modeling and Simulation
+### Statistical Modeling and Simulation
 Designing and implementing quantitative models for disease progression, treatment outcomes, and population health dynamics.
 
-#### Epidemiologic Data Analysis
+### Epidemiologic Data Analysis
 Analyzing disease surveillance data, outbreak trends, and risk factor associations.
 
-#### Computational and Machine Learning Approaches
+### Computational and Machine Learning Approaches
 Applying modern **data science, AI, and predictive analytics** to public health research.
 
-#### Capacity Building and Mentorship
+### Capacity Building and Mentorship
 Developing research and analytical skills through **training programs, workshops, and collaborative projects**.
 
-#### Interdisciplinary Research
+### Interdisciplinary Research
 Partnering with **universities, government agencies, and health institutions** to generate policy-relevant scientific evidence.
 
 ---
