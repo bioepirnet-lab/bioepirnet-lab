@@ -1,74 +1,156 @@
 # BioEpiRNet
+### Biostatistics and Epidemiological Research Network
 
-**Biostatistics and Epidemiological Research Network (BioEpiRNet)**  
-Lagos, Nigeria  
-
-📧 bioepirnet@gmail.com
+📍 Lagos, Nigeria  
+📧 bioepirnet@gmail.com  
 
 ---
 
 ## About BioEpiRNet
 
-The **Biostatistics and Epidemiological Research Network (BioEpiRNet)** is a collaborative research initiative dedicated to advancing research in **biostatistics, epidemiology, public health modeling, and data science**.
+The **Biostatistics and Epidemiological Research Network (BioEpiRNet)** is an independent, interdisciplinary research network dedicated to advancing the application of **biostatistics, epidemiology, and computational modeling** to improve population health outcomes.
 
-Our mission is to support high-quality scientific research that addresses important public health challenges through **quantitative methods, statistical modeling, and computational approaches**.
+Founded to address the growing need for **data-driven insights in public health and biomedical sciences**, BioEpiRNet brings together a diverse community of researchers, data scientists, public health professionals, and policymakers.
 
-BioEpiRNet provides a platform for collaboration among researchers working in:
+The network strengthens understanding of **disease dynamics, risk factors, and intervention strategies** through rigorous statistical and computational approaches.
 
-- Biostatistics
-- Epidemiology
-- Infectious disease modeling
-- Public health data science
-- Mathematical and computational biology
-- Health analytics and statistical computing
+BioEpiRNet operates as a collaborative platform that promotes:
 
----
+- Knowledge exchange  
+- Research innovation  
+- Capacity development  
+- Interdisciplinary collaboration  
 
-## Research Focus
-
-Our work focuses on the application of advanced quantitative methods to address public health challenges, including:
-
-- Infectious disease modeling
-- Spatial and spatio-temporal epidemiology
-- Statistical analysis of health survey data
-- Mathematical modeling of disease transmission
-- Public health policy and intervention analysis
-- Data-driven health decision support systems
+The network contributes to solving real-world challenges in **disease surveillance, prevention, and control across Nigeria, Africa, and the global community**.
 
 ---
 
-## Projects
+## Mission
 
-Some of the research areas and projects supported by BioEpiRNet include:
-
-- Malaria transmission modeling
-- Spatio-temporal disease modeling
-- Bayesian statistical modeling
-- Epidemiological data analysis
-- Public health intervention evaluation
+To foster **innovative and collaborative research in biostatistical and epidemiologic modeling** that enhances understanding of health and disease processes, strengthens **data-driven decision-making**, and improves population health outcomes across **Nigeria, Africa, and the global community**.
 
 ---
 
-## Repositories
+## Vision
 
-Repositories under this organization contain code, models, and research resources developed as part of BioEpiRNet projects.
-
-Example:
-
-- **malaria-spatiotemporal-model-nigeria**  
-  Code for statistical and mathematical modeling of malaria burden and intervention efficacy in Nigeria.
+To become a **premier independent hub for biostatistical and epidemiologic research excellence**, driving **evidence-based public health solutions** through interdisciplinary collaboration, computational modeling, and research capacity development.
 
 ---
 
-## Collaboration
+## Core Objectives
 
-BioEpiRNet welcomes collaboration with researchers, public health professionals, and institutions interested in advancing research in **biostatistics and epidemiology**.
+BioEpiRNet aims to:
 
-If you are interested in collaborating or learning more about our work, please feel free to contact us.
+- Advance scientific research in **biostatistical and epidemiologic modeling**
+- Promote collaboration between **academic institutions, research centers, and health organizations**
+- Train and mentor **early-career researchers**
+- Strengthen **data infrastructure and analytical capacity for health research**
+- Translate research findings into **actionable insights for policymakers and health agencies**
 
 ---
 
-## Contact
+## Core Areas of Focus
+
+### Statistical Modeling and Simulation
+Designing and implementing quantitative models for disease progression, treatment outcomes, and population health dynamics.
+
+### Epidemiologic Data Analysis
+Analyzing disease surveillance data, outbreak trends, and risk factor associations.
+
+### Computational and Machine Learning Approaches
+Applying modern **data science, AI, and predictive analytics** to public health research.
+
+### Capacity Building and Mentorship
+Developing research and analytical skills through **training programs, workshops, and collaborative projects**.
+
+### Interdisciplinary Research
+Partnering with **universities, government agencies, and health institutions** to generate policy-relevant scientific evidence.
+
+---
+
+# Leadership
+
+## Eunice E. Ukwajunor, PhD  
+**Founder & Lead Research Scientist**
+
+Dr. Ukwajunor leads BioEpiRNet’s scientific direction and research programs. Her work focuses on **biostatistics, epidemiologic modeling, and computational health research**, integrating statistical innovation and data science to address critical public health challenges.
+
+---
+
+## Patrick Osatohanmwen, PhD  
+**Senior Research Scientist – Health Economics & Policy Modeling**
+
+Affiliation:  
+Faculty of Economics and Management  
+Free University of Bolzano, Italy
+
+Dr. Osatohanmwen’s research bridges **statistical modeling, econometrics, and data science**, with work spanning **probability theory, spatial extreme value analysis, and policy modeling**.
+
+---
+
+## Ann Nwankwo-Eluwa, PhD  
+**Senior Research Scientist – Infectious Disease Modeling**
+
+Affiliation:  
+Infectious Disease Modelling Group  
+University of Oxford
+
+Dr. Nwankwo-Eluwa develops **mathematical and statistical models** to understand infectious disease dynamics and evaluate control strategies.
+
+---
+
+## Amos O. Egonmwan, PhD  
+**Research Fellow & Technical Operations Manager – Mathematical, Statistical & Computational Modeling**
+
+Affiliation:  
+Mathematical, Computational and Statistical Biology Research Group (MCSB)  
+Department of Mathematics, University of Benin, Nigeria
+
+Dr. Egonmwan’s research integrates **mathematical modeling, spatial epidemiology, and predictive analytics** to study disease dynamics and comorbidity patterns.
+
+---
+
+## Faith Eshofonie, MSc  
+**Research Fellow – Biostatistics & Data Analytics**
+
+Affiliation:  
+Federal University of Technology Akure, Nigeria
+
+Ms. Eshofonie contributes to **research design, statistical analysis, and biostatistical applications in public health studies**.
+
+---
+
+# Research Projects
+
+Repositories under this organization include research projects related to:
+
+- Infectious disease modeling  
+- Spatio-temporal epidemiology  
+- Bayesian statistical modeling  
+- Health data analytics  
+- Public health intervention evaluation  
+
+Example repository:
+
+**malaria-spatiotemporal-model-nigeria**  
+Statistical and mathematical modeling of malaria burden and intervention efficacy in Nigeria.
+
+---
+
+# Collaboration
+
+BioEpiRNet welcomes collaboration with:
+
+- Academic researchers  
+- Public health institutions  
+- Government agencies  
+- International research organizations  
+
+We encourage partnerships that advance **data-driven public health research and policy development**.
+
+---
+
+# Contact
 
 **Biostatistics and Epidemiological Research Network (BioEpiRNet)**  
 Lagos, Nigeria  
